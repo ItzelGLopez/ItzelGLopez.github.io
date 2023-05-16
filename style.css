@@ -144,10 +144,10 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color:#53368B;
+  background-color: #53368B;
   .badge {
     margin: 5px;
-    background-color:#C96CE4;
+    background-color: #C96CE4;
   }
   
 }
