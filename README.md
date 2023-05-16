@@ -13,6 +13,7 @@ Primera parte de la página web:
 Experiencia:
 
 ![Experiencia](imagenes/readme/experiencia.png)
+con botones que redirigen a carpetas drive en donde se encuentran los certificados de cada uno de mis cursos
 
 Proyectos:
 
